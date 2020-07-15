@@ -1,0 +1,12 @@
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/bin/Debug/netcoreapp3.1/dictionary_of_words.deps.json
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/bin/Debug/netcoreapp3.1/dictionary_of_words.runtimeconfig.json
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/bin/Debug/netcoreapp3.1/dictionary_of_words.runtimeconfig.dev.json
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/bin/Debug/netcoreapp3.1/dictionary_of_words.dll
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/bin/Debug/netcoreapp3.1/dictionary_of_words.pdb
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/obj/Debug/netcoreapp3.1/dictionary_of_words.csprojAssemblyReference.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/obj/Debug/netcoreapp3.1/dictionary_of_words.AssemblyInfoInputs.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/obj/Debug/netcoreapp3.1/dictionary_of_words.AssemblyInfo.cs
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/obj/Debug/netcoreapp3.1/dictionary_of_words.csproj.CoreCompileInputs.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/obj/Debug/netcoreapp3.1/dictionary_of_words.dll
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/obj/Debug/netcoreapp3.1/dictionary_of_words.pdb
+/Users/dustinmurdock/workspace/CSharp/exercises/dictionaries/dictionary_of_words/obj/Debug/netcoreapp3.1/dictionary_of_words.genruntimeconfig.cache
